@@ -1,6 +1,6 @@
 # Make The Recipe Work For Me
 
-Make The Recipe Work For Me is a tool that evaluates the original and give you a new one that matches your families needs.
+Make The Recipe Work For Me is a tool that evaluates the original and gives you a new one that matches your family's needs.
 
 ## Usage
 
