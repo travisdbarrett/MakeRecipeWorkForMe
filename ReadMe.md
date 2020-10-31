@@ -15,3 +15,8 @@ Please make sure to update tests. We strive for 100% coverage.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 because who can morally stand up to MIT?
+
+## Who do we want to be like?
+
+https://mykitchencalculator.com/recipeconverter.html
+But the UI sucks...and obviously we want to be an iphone app, or homescreen shortcut.
