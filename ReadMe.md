@@ -20,3 +20,7 @@ because who can morally stand up to MIT?
 
 https://mykitchencalculator.com/recipeconverter.html
 But the UI sucks...and obviously we want to be an iphone app, or homescreen shortcut.
+
+## API
+
+https://rapidapi.com/mycookbook/api/mycookbook-io1/pricing
