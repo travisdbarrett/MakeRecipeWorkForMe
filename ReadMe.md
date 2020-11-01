@@ -24,3 +24,6 @@ But the UI sucks...and obviously we want to be an iphone app, or homescreen shor
 ## API
 
 https://rapidapi.com/mycookbook/api/mycookbook-io1/pricing
+
+## Guide
+https://medium.com/@kasunpdh/sample-java-web-application-using-servlets-and-jsp-5621cad2f582
